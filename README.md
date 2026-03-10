@@ -75,7 +75,7 @@ retail-sales-data-cleaning/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/retail-sales-data-cleaning.git
+git clone https://github.com/Herman-Liepieshko/retail-sales-data-cleaning.git
 cd retail-sales-data-cleaning
 
 # 2. Install dependencies
@@ -86,6 +86,12 @@ jupyter notebook notebooks/data_cleaning_eda.ipynb
 ```
 
 Run all cells top-to-bottom. The cleaned dataset will be written to `data/cleaned/` automatically.
+
+---
+
+## Output
+
+The cleaned dataset is available at `data/cleaned/retail_store_sales_cleaned.csv` and is ready for downstream analysis or modeling.
 
 ---
 
